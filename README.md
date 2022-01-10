@@ -1,3 +1,15 @@
+Screenshots of MyProject
+![1 Add Pizza](https://user-images.githubusercontent.com/93248399/148769966-1499d442-b504-4e31-88c0-dd15df4c81e9.png)
+![2 Paneer pizza](https://user-images.githubusercontent.com/93248399/148769986-e10eeac9-960b-47c9-a0b9-1ba1f048a418.png)
+![3 Cart](https://user-images.githubusercontent.com/93248399/148770002-f11092e5-d016-43ac-ab48-db4ee4fb021b.png)
+![4 Mongo](https://user-images.githubusercontent.com/93248399/148770024-347b2382-8bfb-4869-8709-4fa7bec7eb4e.png)
+
+I didn't added Paypal
+![5 paypal](https://user-images.githubusercontent.com/93248399/148770032-63a84c48-6cbe-4e71-923a-3e4a3ee046b7.png)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
